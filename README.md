@@ -1,6 +1,6 @@
-# love_calculator
+# THE LOVE CALCULATOR
 
-A new Flutter project.
+A calculator to calculate the percentage of you and your loved ones!!
 
 ## Getting Started
 
